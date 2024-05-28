@@ -1,0 +1,18 @@
+info
+show
+max_by_id
+insert 6
+343434
+kate
+4
+56
+1
+0
+450
+music
+knife
+gloom
+car
+1
+execute_script test.txt
+sdfghjkl
